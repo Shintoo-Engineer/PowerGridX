@@ -1,0 +1,6 @@
+{
+  "name": "PowerGridX",
+  "description": "Trade Surplus • Power Communities • Smarter Grid. Digital electricity marketplace connecting prosumers, producers, and consumers over the existing power grid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
